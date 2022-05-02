@@ -1,0 +1,37 @@
+.navbar-brand h1{
+	font-family: Taipei Sans TC Beta;
+}
+.carousel-caption{
+	font-family: Taipei Sans TC Beta;
+	padding: 180px 0;
+	font-weight: bold;
+}
+.card-title{
+	font-family: Taipei Sans TC Beta;
+}
+#gotop {
+	position: fixed;
+	z-index: 99;
+	left: 1200px;
+	bottom: 100px;
+	width: 40px;
+	text-decoration: none;
+	background-color: #33b5e5;
+	border-radius: 50%;
+	transition: all 0.5s;
+	text-align: center;
+	box-shadow: 0 2px 5px 0 ;
+	color: white;
+}
+#gotop:hover{
+	color: red;
+}
+.media-body{
+	font-family: Taipei Sans TC Beta;
+}
+ul{
+	list-style: none;
+}
+.mb-3{
+		font-family: Taipei Sans TC Beta;
+}
